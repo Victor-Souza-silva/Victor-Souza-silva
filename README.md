@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Victor Souza
+## Victor Souza
 
 💻 **Python Developer | AI Engineer in Progress | Automation Enthusiast**
 
