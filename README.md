@@ -12,7 +12,7 @@ Gosto de transformar ideias em código eficiente e de aprender continuamente sob
 - 🌱 Estudando **LangChain, LLMs e engenharia de agentes de IA**  
 - ⚙️ Experiência com **Docker, CI/CD, AWS e FastAPI**  
 - 💬 Gosto de compartilhar ideias sobre **automação, IA e boas práticas em Python**  
-- 📫 Como me encontrar: [![LinkedIn Badge](https://img.shields.io/badge/-Victor%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/victor-souza-silva)](https://linkedin.com/in/victor-souza-silva)
+- 📫 Como me encontrar: [![LinkedIn Badge](https://img.shields.io/badge/-Victor%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in//victor-souza-5138841a5/)](https://linkedin.com/in//victor-souza-5138841a5/)
 
 ---
 
