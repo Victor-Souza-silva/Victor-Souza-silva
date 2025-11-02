@@ -31,13 +31,14 @@ Gosto de transformar ideias em código eficiente e de aprender continuamente sob
 ---
 
 ###  GitHub Stats
-<div>
-  
-  ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Souza-silva&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Souza-silva&layout=compact&theme=radical)
-  
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Souza-silva&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Souza-silva&layout=compact&theme=radical" />
 </div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Victor-Souza-silva&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
