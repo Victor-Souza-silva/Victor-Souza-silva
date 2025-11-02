@@ -31,7 +31,7 @@ Gosto de transformar ideias em código eficiente e de aprender continuamente sob
 ---
 
 ###  GitHub Stats
-<div align="center">
+<div>
   
   ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Souza-silva&show_icons=true&theme=radical)
   
