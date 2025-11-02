@@ -2,7 +2,7 @@
 
  **Python Developer | AI Engineer in Progress | Automation Enthusiast**
 
-Sou desenvolvedor Python com foco em automação, integração de APIs e engenharia de agentes de IA.  
+Sou desenvolvedor Python com foco em automação, integração de APIs e engenharia de software.  
 Gosto de transformar ideias em código eficiente e de aprender continuamente sobre novas tecnologias.
 
 ---
@@ -10,7 +10,7 @@ Gosto de transformar ideias em código eficiente e de aprender continuamente sob
 ### Sobre Mim
 -  Atualmente trabalhando com **integrações, automações e APIs REST**  
 -  Estudando **LangChain, LLMs e engenharia de agentes de IA**  
--  Experiência com **Docker, CI/CD, AWS e FastAPI**  
+-  Experiência com **Docker, CI/CD, AWS e Flask**  
 -  Gosto de compartilhar ideias sobre **automação, IA e boas práticas em Python**  
 -  Como me encontrar: [![LinkedIn Badge](https://img.shields.io/badge/-Victor%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in//victor-souza-5138841a5/)](https://linkedin.com/in//victor-souza-5138841a5/)
 
