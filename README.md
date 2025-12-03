@@ -1,6 +1,6 @@
 ## Victor Souza
 
- **Python Developer| Automation Enthusiast**
+ **Python Developer | FullStack Developer | Automation Enthusiast**
 
 Sou desenvolvedor Python com foco em automação, integração de APIs e engenharia de software.  
 Gosto de transformar ideias em código eficiente e de aprender continuamente sobre novas tecnologias.
